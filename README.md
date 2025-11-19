@@ -4,7 +4,7 @@ During these sessions the following topics will be discussed:
 
 1. Python tutorial
 
-   **notebook:** [Python](python/Introduzione a Python.ipynb)
+   **notebook:** [Python](python/Introduzione%20a%20Python.ipynb)
 
 2. Quantum computing basics with Qibo
 
